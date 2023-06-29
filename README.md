@@ -1,2 +1,2 @@
 # hello-world
-a welcome program
+A welcome program for someone who is startingout.
